@@ -1,9 +1,11 @@
 ## Pathfinding visualization
 This project was made by Leo Varis.<br />
 Project visualizes 3 major pathfinding algorithms:<br />
-Astar [Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)<br />
-Dijkstra<br />
-Greedy Best-first Search<br />
+Astar [Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)<br />
+Dijkstra [Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)<br />
+Greedy Best-first Search [Wikipedia](https://en.wikipedia.org/wiki/Best-first_search)<br /><br />
+Project was made using JavaScript and React.<br />
+After Visualization press "Reset grid" to do another visualization<br />
 
 ## Available Scripts
 
