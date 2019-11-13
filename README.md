@@ -1,9 +1,9 @@
-### Pathfinding visualization
-This project was made by Leo Varis
-Project visualizes 3 major pathfinding algorithms:
-Astar
-Dijkstra
-Greedy Best-first Search
+## Pathfinding visualization
+This project was made by Leo Varis.<br />
+Project visualizes 3 major pathfinding algorithms:<br />
+Astar<br />
+Dijkstra<br />
+Greedy Best-first Search<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
