@@ -24,7 +24,7 @@ export function GBF(grid, start_node, end_node) {
 function updateNeighbors(node, grid, start_node, end_node) {
   const nb = neighbors(grid, node, grid.length, grid[0].length);
   for (const neighbor of nb) {
-    neighbor.distance = distanceToNode(end_node, neighbor);
+    neighbor.distance = distanceToNode(end_node, neighbor); // Difference is that it only cares about the endnode
     neighbor.previousNode = node;
   }
 }
