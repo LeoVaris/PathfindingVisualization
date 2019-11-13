@@ -24,7 +24,8 @@ export function astar(grid, start_node, end_node) {
 function updateNeighbors(node, grid, start_node, end_node) {
   const nb = neighbors(grid, node, grid.length, grid[0].length);
   for (const neighbor of nb) {
-    neighbor.distance = distanceToNode(end_node, neighbor) + distanceToNode(start_node, neighbor);
+    // Difference is that it also accounts the endnode
+    neighbor.distance = distanceToNode(end_node, neighbor) + distanceToNode(start_node, neighbor); 
     neighbor.previousNode = node;
   }
 }
