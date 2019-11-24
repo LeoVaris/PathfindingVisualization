@@ -10,6 +10,10 @@ After Visualization press "Reset grid" to do another visualization<br /><br />
 You can view this project in Google Chrome!<br />
 https://leovaris.github.io/PathfindingVisualization/<br />
 ONLY USE ON A 1920X1080 SCREEN<br />
+### What I learned
+* Simple React, states, props, components 
+* JavaScript array management 
+* CSS classes and simple keyframe animations 
 ## Available Scripts
 
 In the project directory, you can run:
