@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PathfindingVisualization/static/css/main.5ea49e8a.chunk.css",
+    "main.css": "/PathfindingVisualization/static/css/main.dfad42f0.chunk.css",
     "main.js": "/PathfindingVisualization/static/js/main.97b644e6.chunk.js",
     "main.js.map": "/PathfindingVisualization/static/js/main.97b644e6.chunk.js.map",
     "runtime-main.js": "/PathfindingVisualization/static/js/runtime-main.c9dea472.js",
@@ -8,14 +8,14 @@
     "static/js/2.69803700.chunk.js": "/PathfindingVisualization/static/js/2.69803700.chunk.js",
     "static/js/2.69803700.chunk.js.map": "/PathfindingVisualization/static/js/2.69803700.chunk.js.map",
     "index.html": "/PathfindingVisualization/index.html",
-    "precache-manifest.cf49c7e44fcb21027067bcf1362eaa26.js": "/PathfindingVisualization/precache-manifest.cf49c7e44fcb21027067bcf1362eaa26.js",
+    "precache-manifest.e7af65b9595af388a24223f67c66ebf6.js": "/PathfindingVisualization/precache-manifest.e7af65b9595af388a24223f67c66ebf6.js",
     "service-worker.js": "/PathfindingVisualization/service-worker.js",
-    "static/css/main.5ea49e8a.chunk.css.map": "/PathfindingVisualization/static/css/main.5ea49e8a.chunk.css.map"
+    "static/css/main.dfad42f0.chunk.css.map": "/PathfindingVisualization/static/css/main.dfad42f0.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.c9dea472.js",
     "static/js/2.69803700.chunk.js",
-    "static/css/main.5ea49e8a.chunk.css",
+    "static/css/main.dfad42f0.chunk.css",
     "static/js/main.97b644e6.chunk.js"
   ]
 }
