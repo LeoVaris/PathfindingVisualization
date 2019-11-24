@@ -7,8 +7,9 @@ Greedy Best-first Search [Wikipedia](https://en.wikipedia.org/wiki/Best-first_se
 Project was made using JavaScript and React.<br />
 After Visualization press "Reset grid" to do another visualization<br /><br />
 
-[CodeSandBox link](https://codesandbox.io/embed/github/LeoVaris/PathfindingVisualization/tree/master/?fontsize=14&hidenavigation=1&theme=dark&view=preview) ONLY USE ON A 1920X1080 SCREEN<br />
-In CodeSandBox press "open preview in new window to view this app"
+You can view this project in Google Chrome!<br />
+https://leovaris.github.io/PathfindingVisualization/<br />
+ONLY USE ON A 1920X1080 SCREEN<br />
 ## Available Scripts
 
 In the project directory, you can run:
